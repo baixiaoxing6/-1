@@ -1,0 +1,19 @@
+{
+  "source_type": "全屏",
+  "monitor_index": 1,
+  "window_title": "",
+  "video_path": "",
+  "image_path": "",
+  "region": {
+    "left": 0,
+    "top": 0,
+    "width": 1280,
+    "height": 720
+  },
+  "resolution": "1280x720",
+  "fps": 30,
+  "mirror": false,
+  "vertical_flip": false,
+  "fill_mode": "适应",
+  "always_on_top": false
+}
